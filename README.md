@@ -2,4 +2,4 @@
 -  I’m interested in Solidity
 -  I’m currently learning JavaScript and Solidity
 -  I’m looking to collaborate on any dApp, NFT or dex projects 
-- You can reach me on my presonal email
+- You can reach me on my presonal email sohaib313@gmail.com
